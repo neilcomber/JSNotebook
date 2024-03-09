@@ -1,4 +1,4 @@
-## A standalone code sandbox that allows you to write and document code.
+## A standalone code sandbox that allows you to write and document code - with both preview and markup windows.
 
 Written with React & Typescript. 
 
