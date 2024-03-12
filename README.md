@@ -1,4 +1,5 @@
-## A standalone code sandbox that allows you to write and document code - with both preview and markup windows.
+## A standalone codepen that allows you to write and document code - with both preview and markup windows.
+### Great for quickly showing conceprts ideas - capable of importing and running react.
 
 Written with React & Typescript. 
 
