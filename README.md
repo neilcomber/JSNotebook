@@ -14,7 +14,7 @@ Written with React, Redux & Typescript.
 - Lerna to create a small CLI for startup, aswell as general file keeping
 
 ### WHAT THE BUNDLER CAN NOT DO:
-- Do additional imports from CSS files
+- Do additional imports from CSS files.
 - does not perform checks the user isn't creating infinite loops.
 - users will not be able to use cookies with their code
 users will not be able to access local storage with their code
@@ -22,4 +22,4 @@ users will not be able to access local storage with their code
 ### To Run:
 Download and npm install for dependencies
 npx run start
-Will automatically load in your browser, running on port 3000
+Will automatically load in your browser on port 3000
